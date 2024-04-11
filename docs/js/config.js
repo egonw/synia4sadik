@@ -1,6 +1,6 @@
-queryServiceUrl = "https://compoundcloud.wikibase.cloud/query/";
-wikiUrl = "https://compoundcloud.wikibase.cloud",
-namespace = "VHP4Safety:CompoundCollections:",
+queryServiceUrl = "https://research-waste.wikibase.cloud/query/";
+wikiUrl = "https://research-waste.wikibase.cloud",
+namespace = "ResearchWaste:Synia:",
 
 endpoint = queryServiceUrl + "/sparql",
 templateApiUrl = wikiUrl + "/w/api.php",
